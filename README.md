@@ -2,7 +2,8 @@
 
 ![Game Preview](avalanche_gamepreview.png)
 
-Students will be challenged to create their own version of the game **Avalanche** over the course of 18 weeks or in a summer camp. **Avalanche** is our version of the classic **Tetris** game which involves moving/rotating shapes to complete a line. 
+Students will be challenged to create their own version of the game **Avalanche** over the course of 18 weeks or in a summer camp. 
+**Avalanche** is our version of the classic **Tetris** game which involves moving/rotating shapes to complete a line. 
 The more lines you complete, the better the score will be and the faster the game will get! 
 Compete on a highscore board that saves the top 10 with file read/write commands. 
 While the game is simple in concept the mathematics involved require some clever thought.
