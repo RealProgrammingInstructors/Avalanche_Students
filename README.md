@@ -18,10 +18,30 @@ We at RP4K wish to encourage students who have an interest in coding, math or ge
 Below is a detailed list of what a student will learn throughout our Avalanche course.
 
 ## General Code Skill
+- Importing Libraries
+- Dot notation (accessing variable properties)
+- Collections (tuples, arrays, 2D arrays)
+- Dynamic Types and Variables
+- Control Flow and Conditional Statements (while, for, if)
+- Colour values (0-255)
+- Python Indentation
+- Functions (parameters, arguments)
+- Keypress Events (tetris piece movement, starting game, powerups, etc.)
+- Rendering Game Grid
+- Creating Powerups (swap, time stop, etc.)
+- Creating Game UI and HUD (title screen, score, piece preview panel, etc.)
+- Gameboard Logic (2D array, rotation restrictions, boundaries)
+- Game State Management (losing condition, title screen start, level speed increase)
 
 ## Objected Oriented Programming
+- Class Creation and Structure (constructor, class variables, functions)
+- Composition (Shape and Blocks)
 
 ## Math
+- PyGame Window Coordinate System
+- Timer (interval for falling piece)
+- Rotating Shapes using Linear Algebra (matrices)
+- Arithmetic (Add, Subtract, Multiply, Divide)
 
 # Course Outline
 The course is broken into 10 main lessons, each with a specific objective in mind.
